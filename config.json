@@ -14,9 +14,9 @@
 		"disabled": 0
 	}],
 	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	"user": "RTTLZre8SrUTZndASGsTU2B8i1cPmr2eZc.may01",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 16,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
